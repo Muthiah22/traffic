@@ -1,4 +1,7 @@
 
 numpy
 streamlit 
-
+gtts
+googletrans
+streamlit_option_menu
+pyttsx3
