@@ -1,4 +1,4 @@
-OpenCV
+opencv-python3 
 numpy
 streamlit 
 gtts
