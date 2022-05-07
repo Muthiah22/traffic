@@ -6,4 +6,5 @@ gtts
 googletrans
 streamlit_option_menu
 pyttsx3
-
+tensorflow
+PIL
