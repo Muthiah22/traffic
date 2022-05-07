@@ -1,6 +1,4 @@
-glob,time
-os
-googletrans 
+
 numpy
 streamlit 
 
