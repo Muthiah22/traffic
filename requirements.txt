@@ -6,4 +6,5 @@ gtts
 googletrans
 streamlit_option_menu
 pyttsx3
- opencv_contrib_python
+opencv_contrib_python
+pip install opencv-python
