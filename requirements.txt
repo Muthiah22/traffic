@@ -1,6 +1,6 @@
 opencv-python-headless
 numpy
-opencv
+
 streamlit 
 gtts
 googletrans
