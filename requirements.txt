@@ -7,4 +7,4 @@ googletrans
 streamlit_option_menu
 pyttsx3
 opencv_contrib_python
-m pip install -- opencv-python
+pip install -- opencv-python
