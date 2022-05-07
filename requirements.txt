@@ -1,10 +1,10 @@
 
 numpy
-opencv-python
+
 streamlit 
 gtts
 googletrans
 streamlit_option_menu
 pyttsx3
 opencv_contrib_python
-m pip install --upgrade pip
+m pip install -- opencv-python
